@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ffarzii
 - 👀 music and novels
 - 🌱 chemical engineering
-- kL,KSD
+- KL,KSD
 
 <!---
 ffarzii/ffarzii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
